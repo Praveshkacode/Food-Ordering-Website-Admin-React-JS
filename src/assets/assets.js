@@ -16,4 +16,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://bhojanbazzar-admin.onrender.com'
+export const url = 'https://bhojan-bazzar-backend.onrender.com'
